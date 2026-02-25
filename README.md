@@ -9,6 +9,12 @@ A fully functional calculator capable of performing basic operations (addition, 
 * **Precision**: Handles decimal numbers and limits floating-point issues using `toFixed(10)`.
 * **Error Handling**: Displays "Div by 0" when attempting to divide by zero.
 
+## 🤖 AI Refactoring
+This project was initially developed by me and subsequently refactored with the assistance of AI. The AI helped optimize the code structure by:
+* Implementing the **Object-Oriented (Class)** structure for better logic management.
+* Adding robust **keyboard event listeners** for a smoother user experience.
+* Refining the **Glassmorphism CSS** to ensure modern styling and responsiveness.
+
 ## 🛠️ Built With
 * **HTML5**: Semantic structure using custom `data-attributes`.
 * **CSS3**: Custom properties (variables), Flexbox, Grid, and Keyframe animations.
