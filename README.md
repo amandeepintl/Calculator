@@ -22,4 +22,4 @@ This project was initially developed by me and subsequently refactored with the 
 * **JavaScript**: Object-Oriented Programming (OOP) and DOM event listeners.
 
 ## 📜 License
-This project is licensed under the **MIT License**.noice
+This project is licensed under the **MIT License**.
